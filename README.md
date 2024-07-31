@@ -15,7 +15,7 @@ Reading the below sections in the written order will help better understand all 
 This code is used for data preprocessing, including converting IQ signals to AP format, normalization, and other tasks.
 
 **mltools.py**
-This code is a tool class used to draw pictures.
+This code is a tool class used to draw figures.
 
 **rmlmodels**
 This code defines the network structure of the model, detailing the layers, activation functions, and connections used to build the neural network.
